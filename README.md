@@ -3,7 +3,7 @@ I'm currently learning Angular.
 <html>
   <body>
     <hr>
-    <p>Hi this is peso</p>
+    <p color="yellow">Hi this is peso</p>
   </body>
 </html>
 
