@@ -16,4 +16,4 @@ I'm currently learning Angular.
 ![](https://github-profile-trophy.vercel.app/?username=PesoHrangchal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-![](https://visitcount.itsvg.in/api?id=PesoHrangchal&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PesoHrangchal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
