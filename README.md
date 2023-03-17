@@ -3,8 +3,6 @@ I'm currently learning Angular.
 <html>
   <body>
     <hr>
-    <p color='yellow'>Hi this is peso</p>
-    <hr>
     <img width="100px" height="100px" src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
   </body>
 </html>
@@ -18,9 +16,5 @@ I'm currently learning Angular.
 ![](https://github-readme-stats.vercel.app/api?username=PesoHrangchal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PesoHrangchal&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PesoHrangchal&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PesoHrangchal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PesoHrangchal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
