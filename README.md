@@ -1,11 +1,12 @@
 # 💫 About Me:
-I'm currently learning Angular.
 <html>
   <body>
-    <hr>
     <img width="100px" height="100px" src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
+    <hr>
   </body>
 </html>
+<hr>
+I'm currently learning Angular.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peso.hmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/peso_hrangchal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pensionthieng-Hrangchal) 
