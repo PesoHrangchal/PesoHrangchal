@@ -1,11 +1,9 @@
 # 💫 About Me:
-<html>
-  <body>
-    <img width="100px" height="100px" src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
-    <hr>
-  </body>
-</html>
+
+<img width="100px" height="100px" src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
+
 <hr>
+
 <h2>I'm currently learning Angular.</h2>
 
 ## 🌐 Socials:
