@@ -5,7 +5,7 @@ I'm currently learning Angular.
     <hr>
     <p color='yellow'>Hi this is peso</p>
     <hr>
-    <img src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
+    <img width="100px" height="100px" src="https://media.licdn.com/dms/image/C5603AQHzqnw9hmecWg/profile-displayphoto-shrink_800_800/0/1661872836235?e=1684368000&v=beta&t=FYnCFoHkDKFOooQwETSw3lnjBr4km0paP3fl-Nrhvco">
   </body>
 </html>
 
