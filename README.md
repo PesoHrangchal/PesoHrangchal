@@ -4,6 +4,7 @@ I'm currently learning Angular.
   <body>
     <hr>
     <p color="yellow">Hi this is peso</p>
+    <hr>
   </body>
 </html>
 
