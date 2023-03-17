@@ -1,7 +1,8 @@
 # 💫 About Me:
 I'm currently learning Angular.
 <html>
-  <body bgcolor="blue">
+  <body>
+    <hr>
     <p>Hi this is peso</p>
   </body>
 </html>
